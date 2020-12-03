@@ -1,6 +1,5 @@
-# 2020-2학기 컴퓨터구조 수업
-
-Topic : Matrix Multiplication 하는 함수를
+# Topic 
+Matrix Multiplication 하는 함수를
 (1) No optimization
 (2) AVX Subword parallalism
 (3) Loop unrolling
